@@ -1,0 +1,11 @@
+pygtk: PyGTK - GTK+ bindings for Python
+pygtk:
+pygtk: PyGTK provides a convenient wrapper for the GTK+ library for use in
+pygtk: Python programs, and takes care of many of the boring details such as
+pygtk: managing memory and type casting. When combined with PyORBit and
+pygtk: gnome-python, it can be used to write full featured GNOME apps.
+pygtk:
+pygtk:
+pygtk:
+pygtk: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+pygtk:
