@@ -1,4 +1,4 @@
-gtk+2 >= 2.8.20
-pycairo >= 1.0.2
-pygobject >= 2.12.3
-python >= 2.4
+gtk+2 >= 2.10.13
+pycairo >= 1.4
+pygobject >= 2.13.2
+python >= 2.5
